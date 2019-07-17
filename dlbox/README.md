@@ -1,8 +1,8 @@
 # Deep Learning Box
 
-Deep Learning Boxに関する情報をまとめます．
+Deep Learning Box（DLBox）に関する情報をまとめます．
 
-Information about Deep Learning Box.
+Information about Deep Learning Box (DLBox).
 
 ## Note
 以下の点に注意して下さい．
@@ -14,3 +14,21 @@ Note that
 
 * Do not connect the ground wire to the plug.
 * Do not execute ```$ sudo apt-get upgrade```.
+
+
+## Install
+DLBoxにデフォルトでインストールされているChainerのバージョンは古く，Python2のみで使用可能です．  
+Python3で動作する最新版のChainerをインストールすることを推奨します．
+
+Chainer installed in the DLBox is not latest version.  
+In addition, only Chainer in Python2 is available.  
+We recommend you to install Chainer in Python3.
+
+### How to install Chainer in Python3
+
+```
+$ git clone https://github.com/tamukohlaboratory/aiseminar2019.git
+$ cd aiseminar2019/dlbox
+$ chmod +x install_chainer.sh
+$ ./install_chainer.sh
+```
