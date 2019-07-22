@@ -19,6 +19,8 @@ Note that
 
 ## Specification
 
+|       |                                       |
+|-------|---------------------------------------|
 | OS    | Ubuntu 14.04 LTS                      |
 | MEM   | 62.8 GiB                              |
 | CPU   | Intel Xeon E5-1620 v3 @3.50GHz x 8    |
