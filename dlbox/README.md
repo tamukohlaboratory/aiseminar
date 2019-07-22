@@ -4,6 +4,7 @@ Deep Learning Box（DLBox）に関する情報をまとめます．
 
 Information about Deep Learning Box (DLBox).
 
+
 ## Note
 以下の点に注意して下さい．
 
@@ -14,6 +15,15 @@ Note that
 
 * Do not connect the ground wire to the plug.
 * Do not execute ```$ sudo apt-get upgrade```.
+
+
+## Specification
+
+| OS    | Ubuntu 14.04 LTS                      |
+| MEM   | 62.8 GiB                              |
+| CPU   | Intel Xeon E5-1620 v3 @3.50GHz x 8    |
+| GPU   | GeForce GTX 1080                      |
+| SSD   | 464.4 GB                              |
 
 
 ## Install
