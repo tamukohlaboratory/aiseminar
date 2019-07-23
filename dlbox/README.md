@@ -44,3 +44,10 @@ $ cd aiseminar2019/dlbox
 $ chmod +x install_chainer.sh
 $ ./install_chainer.sh
 ```
+
+DLBoxにTeamViewerをインストールする場合，  
+Ubuntu 14.04 LTSが最新版のTeamViewerに対応していないため，  
+TeamViewerのバージョン13をインストールしてください．
+
+If you want to install TeamViewer into DLBox,  
+please install TeamViewer ver. 13.
