@@ -29,14 +29,14 @@ Note that
 
 
 ## Install
+
+### Chainer
 DLBoxにデフォルトでインストールされているChainerのバージョンは古く，Python2のみで使用可能です．  
 Python3で動作する最新版のChainerをインストールすることを推奨します．
 
 Chainer installed in the DLBox is not latest version.  
 In addition, only Chainer in Python2 is available.  
 We recommend you to install Chainer in Python3.
-
-### How to install Chainer in Python3
 
 ```
 $ git clone https://github.com/tamukohlaboratory/aiseminar2019.git
@@ -45,9 +45,11 @@ $ chmod +x install_chainer.sh
 $ ./install_chainer.sh
 ```
 
+### TeamViewer
 DLBoxにTeamViewerをインストールする場合，  
 Ubuntu 14.04 LTSが最新版のTeamViewerに対応していないため，  
 TeamViewerのバージョン13をインストールしてください．
 
 If you want to install TeamViewer into DLBox,  
-please install TeamViewer ver. 13.
+since TeamViewer latest version doesn't support Ubuntu 14.04 LTS,  
+please install TeamViewer ver. 13 instead of latest version.
