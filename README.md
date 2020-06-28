@@ -6,11 +6,10 @@ Chainer，Google Colaboratory，DL-Box，自由設定課題などAIセミナー�
 質問がある場合は，issueに投稿してください．  
 質問は可能な限りTAがお答えしますが，受講生の皆様にも協力していただけると幸いです．
 
-This repository is used for sharing information of AI seminar 2019.  
+This repository is used for sharing information of AI seminar.  
 This is about Chainer, Google Colaboratory, DL-Box, and group works.  
 If you have any question, please add new issue.  
-We, TA members of AI seminar, will try to answer your questions.  
-Your contribution is also welcome.
+We, TA members of AI seminar, will answer your questions (Your contribution is also welcome).
 
 ## Note
 以下の点に注意してください．
